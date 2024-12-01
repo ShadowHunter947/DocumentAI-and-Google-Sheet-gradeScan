@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "examscriptassessmentusingocr",
+  "private_key_id": "3ccfe26ec8444ca0cb5f0f10cf7df05f9baf0199",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCrYwfzbnOCzliX\nSjMCD5q/oPCnV7aQv49zXE7GSg5h6XzxV91a7im9PtEe1zJJsVh+N8kkqzrBNdhk\nnXMsUBH96GYgyRK5zgHSiK3Z5lsnHqSXHbmGpDB3lSCDs6iaBWiwwcdWxyOfxqNW\n9CFyF4pp5QKIvJxhYHu5d81s5KJbIebaitnIcpa5uS1A0iH9gqNJ3I3RYWx8BN1x\nlqSrHtY0Bg0+v/SURXRglnTofdg61cbhqfuFmt+Vvxo3iI8XI1ffO8pxqDvhyv1j\nnnLZGjk6COBd3vljU1DC880TYFNiEfCAkbgDOpqt37pfWZFyo5es8y8n82hqwI37\ndlE7aNFZAgMBAAECggEAEAgZkWx0pujbKdy9mHzh8HizJi4q5E+c8TEyZ7M79O34\nu2EpEjVKx3ppqJk/6ZuKn/TjLnhLbNEW+rNtN3kOc8oySnEQnLuP2VQicgptnqNL\nyVx1EyqG45q6IcOzmuO0YytfNId4djzIIO1BdykLUCRFSEnfVW8HZ8YUe9IHu18x\nSkI2AWwlgBBQ3gG8grb7K7u/slwGGjJKu4+tR1xniEWLMdUGfl3KEMtcIoFC0TBG\ng8vTKhQr7MY5HDdC6kqnvhogM1jSQZwl2aQJLszIyTDjyaBuXyFTUPDCOv+/GbHT\nqAGkAwlNIX9C727hJRPvLGEnVhIfKPF83v1tQXILoQKBgQDiDnZGaq7oq6PckDWe\nUjCw3IfcTPU283YGrsNoXn7oMQ++lf1jH09d+MZFeVHF8dVtmPo9kcZddWKDxjoc\nN6eR+RBQUaYK2hyDUKOI1Kn9AFFVuhrsOru2/J0/r0aG6ZNDHPrdL/5qiuJ6aXEx\nqQzcSP8wk9OG+m6B9pRIBjB3OQKBgQDCFrrxqd/u61Thg2MRibb0/dTrDpmiZVf5\ntDqUrQ9jwpj0sFcxBgluHLZYL7/YEyjLaLZMw0QFZMsxIcarDtCPAEJb4yIQsLjM\nW/LjV7vflWMK5byA5E67pWW4LaR2IXCzCz7eAygNltwt6D/t/sa/+Ioxi/+3Yms+\n+Lad8FoLIQKBgH/SD5y3fBlB3FC+FiNkc/W9bPDrbwhYV5dlwEZGkFm4TB/G7dTb\ngmQvY+UquUtE+BqVkoG36MM1ubOrJXaJHa5Td58C2/Fs7QxvT1jybwAI6vSfW9PR\nTg0k/8Ff2XA1qLgdLdhd5+zUhUUUVBXxcb0pZWpRXB0Jg+zmwWeMYGE5AoGAMIGz\nyQ/2mmSQOyg2Cz0Kz6Hco75rYS3I1exYM64oyXrp9UVZFTR4CN/+Jn4QiTUIngWW\nggrPJjXxnl7dowS51PNwojxa2CcCmHhmdLEJkDBqp1+RQ/lLQBRvHp+xmaBz5Rtr\nY9sQGI1ai9Ken6FsFLBOAWIGz9M2EG/iXAikyGECgYEAmmp3Zk6mPx8hG9NB9yXe\n4L6oI41dzBGE6TSUKO0gO7aeVeOO9RXiJH3QO0hqGg4qy1eZS67lr+W+v7e6+wDo\nMlVEHqGg96igZb0Fr3QuzXIjGRwXANE5862Tee1kKY55/f1MXCldvaoY90awOl6s\ncyb4DMcLIZNsNpaf+v1HjsU=\n-----END PRIVATE KEY-----\n",
+  "client_email": "examscriptassessment@examscriptassessmentusingocr.iam.gserviceaccount.com",
+  "client_id": "104984150523313089388",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/examscriptassessment%40examscriptassessmentusingocr.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
